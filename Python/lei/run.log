@@ -1,0 +1,3 @@
+2019-11-18 16:32:28,697 aa.py[line:21] INFO start_app
+2019-11-18 16:32:45,629 aa.py[line:24] INFO skip
+2019-11-18 16:32:47,397 aa.py[line:26] WARNING agree

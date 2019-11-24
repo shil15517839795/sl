@@ -1,0 +1,10 @@
+name: TOM Smith
+age: 37
+wife:
+  name: Jane Smith
+  age: 35
+child:
+  - name: Jimme
+  - age: 15
+  - name: Hen
+  - age: 13
